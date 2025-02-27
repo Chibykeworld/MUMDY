@@ -39,10 +39,10 @@ export default function Fbox() {
         <div>
             <div class="whiteb">
                 <div class="whited">
-                    <h1>Feactured Movies</h1>
+                    <h1 style={{size:'20px'}}>Feactured Movies</h1>
                 </div>
                 <div class="whited">
-                    <h3>Get More</h3>
+                    <h3 style={{size:'20px'}}>Get More</h3>
                 </div>
             </div>
             <div class="compflex1">

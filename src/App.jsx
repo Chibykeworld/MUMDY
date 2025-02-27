@@ -17,7 +17,7 @@ function App() {
   useEffect(()=>{
    if(myRef) console.log(myRef.current)
    if(count){
-     window.document.body.style.backgroundColor='red'
+     window.document.body.style.backgroundColor='black'
    }
   },[count])
   return (
