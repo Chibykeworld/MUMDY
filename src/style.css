@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+.herobox{
+    display: flex;
+    justify-content: space-evenly;
+}
+    
+.heroimg{
+    background-image: url("../public/m02.jpeg");
+
+    border-top: 10px solid rgb(245, 15, 34);
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+    border-bottom: 40px solid rgb(245, 15, 34);
+    background-size: cover; 
+}
+
+
+.whiteb{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+
+
+.sm1{
+    width: 200px;
+    height:200px;
+}
+
+.sm1{
+    width: 200px;
+    height:200px;
+}
+
+.compflex1{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    
+ 
+}
+
+.mboxd{
+    line-height: 40px;
+}
+
+.tagflex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.imdb{
+    background-color: yellow;
+    border-top: 2px solid rgb(245, 15, 34);
+    border-radius: 10px;
+    width: 60px;
+    padding: 0.1px;
+  
+    
+}
+
+.imdbtext{
+    text-align: center;
+    font-weight: 900;
+}
